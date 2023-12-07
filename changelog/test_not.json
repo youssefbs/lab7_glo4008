@@ -12,5 +12,5 @@
     "end": "Mercredi 30 Novembre 12:00"
     },
     "recommendations": " Monitorer l' etat des services , rollback si  -besoin ...",
-    "notify": ["Test_lab7"]
+    "notify": ["SUPPORT"]
 }
