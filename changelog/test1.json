@@ -1,7 +1,7 @@
 {
     "title": " Titre de la notification ",
     "description": " Mise jour de la version 1.0.0 la version 1.0.1 -de ABC ...",
-    "environments": ["dev", " staging "],
+    "environments": ["dev", "staging"],
     "impact": ["service1", "auth"],
     "contacts": [
         "Med Mouine ( med@kheops.dev )",
@@ -12,5 +12,5 @@
     "end": "Mercredi 30 Novembre 12:00"
     },
     "recommendations": " Monitorer l' etat des services , rollback si  -besoin ...",
-    "notify": [" SECURITY "]
+    "notify": ["Test_lab7"]
 }
